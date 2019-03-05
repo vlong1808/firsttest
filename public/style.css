@@ -1,1 +1,49 @@
 @charset "UTF-8";
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #000000;
+}
+
+.header {
+	width: 100%;
+	background-color: #ffffff;
+}
+
+.contentheader {
+	max-width: 900px;
+	margin: auto;
+	
+}
+	
+.itemheader1{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	line-height: 0;
+	float: left;
+	
+}
+
+.logo {
+	height: 50px;
+}
+
+.itemheader2{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	line-height: 0;
+	float: right;
+
+}
+
+.tel {
+	height: 70px;
+}
+
+.clear {
+	clear: both;
+}
